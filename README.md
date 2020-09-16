@@ -19,3 +19,11 @@ ____________________________
 ## Branching standard
 
 - https://gist.github.com/digitaljhelms/4287848 Go-to reference
+
+## Labeling
+
+- Three label types:
+  - Priority
+  - Status
+  - Type
+  Use at own discretion
