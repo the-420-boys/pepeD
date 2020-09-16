@@ -26,4 +26,5 @@ ____________________________
   - Priority
   - Status
   - Type
-  Use at own discretion
+  
+Use at own discretion
