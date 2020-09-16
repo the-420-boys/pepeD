@@ -4,5 +4,5 @@
 ____________________________
 ## Fetching:
 
-1. `git fetch && git checkout [Branch name - branch that you're changing]`
+1. `git fetch && git checkout <span style="color:blue">"[Branch name - branch that you're changing]</span>`
 
