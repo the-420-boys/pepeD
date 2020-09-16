@@ -4,7 +4,7 @@
 ____________________________
 ## Fetching
 
-`git fetch && git checkout [Branch name - branch that you're changing]`
+`git fetch && git checkout [Branch name (branch that you're changing)]`
 
 ## Commiting
 1. `git commit -m "[message]"`
