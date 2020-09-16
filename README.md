@@ -1,12 +1,12 @@
 # pepeD
 
-# How to Fetch&Commit changes (insert data into [] brackets)
+## How to Fetch&Commit changes (insert data into [] brackets)
 ____________________________
-## Fetching
+### Fetching
 
 `git fetch && git checkout [Branch name (branch that you're changing)]`
 
-## Commiting
+### Commiting
 1. `git commit -m "[message]"`
 2. `git add .`
 3. `git commit -m "[message]"`
