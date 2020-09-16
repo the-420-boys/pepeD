@@ -12,4 +12,4 @@ ____________________________
 2. `git add .`
 3. `git commit -m "[message]"`
 4. `git push`
-5. Go to https://github.com/the-420-boys/pepeD and click compare&pull request button ![slika1](https://gyazo.com/b79eadb6943bf86610600463211d73a2)
+5. Go to https://github.com/the-420-boys/pepeD and click compare&pull request button ![slika1](https://i.gyazo.com/b79eadb6943bf86610600463211d73a2.png)
